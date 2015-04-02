@@ -3,7 +3,7 @@
  * Plugin Name: ng-template
  * Plugin URI: https://github.com/stepankarslyan
  * Description: Wordpress plugin for adding AngularJS pages in wordpress.
- * Version: 1.0.3
+ * Version: 1.0.1
  * Author: Stepan Karslyan
  * Author URI: stepan.karslyan@gmail.com
  * License: A short license name. Example: GPL2
@@ -22,6 +22,8 @@ function auto_create_page() {
  
   
 //the main page content
+
+//jkjkjkjk
   	$page_content = '<script src="/wp-content/plugins/ng-template/ng/lib/angular/angular.min.js"></script>
 		<script src="/wp-content/plugins/ng-template/ng/lib/angular/ng-route.min.js"></script>
 		<script src="/wp-content/plugins/ng-template/ng/lib/jquery/jquery.min.js"></script>
