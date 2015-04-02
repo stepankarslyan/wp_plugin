@@ -1,0 +1,10 @@
+{
+    "name" : "ng-template",
+    "slug" : "ng-template",
+    "download_url" : "https://github.com/stepankarslyan/wp_plugin/archive/master.zip",
+    "version" : "1.0.1",
+    "author" : "stepan.karslyan@gmail.com",
+    "sections" : {
+        "description" : "Wordpress plugin for adding AngularJS pages in wordpress."
+    }
+}
