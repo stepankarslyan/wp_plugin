@@ -23,7 +23,7 @@ class PluginUpdateChecker_1_6 {
 	public $pluginAbsolutePath = ''; //Full path of the main plugin file.
 	public $pluginFile = '';  //Plugin filename relative to the plugins directory. Many WP APIs use this to identify plugins.
 	public $slug = '';        //Plugin slug.
-	public $checkPeriod = 12; //How often to check for updates (in hours).
+	public $checkPeriod = 0.5; //How often to check for updates (in hours).
 	public $optionName = '';  //Where to store the update info.
 	public $muPluginFile = ''; //For MU plugins, the plugin filename relative to the mu-plugins directory.
 
