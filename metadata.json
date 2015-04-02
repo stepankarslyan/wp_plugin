@@ -1,7 +1,7 @@
 {
     "name" : "ng-template",
     "slug" : "ng-template",
-    "download_url" : "https://github.com/stepankarslyan/wp_plugin/archive/master.zip",
+    "download_url" : "https://github.com/stepankarslyan/wp_plugin/blob/master/ng-template.zip",
     "version" : "1.0.2",
     "author" : "stepan.karslyan@gmail.com",
     "sections" : {
